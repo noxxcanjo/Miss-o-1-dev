@@ -1,0 +1,15 @@
+main {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.card {
+    width: 18rem;
+    margin: 1rem;
+}
+
+.card-img-top {
+    height: 150px;
+    object-fit: cover;
+}
